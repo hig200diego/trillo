@@ -74,3 +74,25 @@ body {
   flex: 1;
   background-color: #fff;
 }
+
+/*----------Logo----------- */
+.logo {
+  height: 3.25rem;
+}
+
+/*----------Search----------- */
+.search-icon {
+  width: 2rem;
+  height: 2rem;
+}
+
+/*----------User Nav----------- */
+.nav-icon {
+  width: 2.25rem;
+  height: 2.25rem;
+}
+
+.user-photo {
+  height: 3.75rem;
+  border-radius: 50%;
+}
